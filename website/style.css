@@ -1,0 +1,152 @@
+*{
+ margin: 0%;
+ padding: 0%;
+
+}
+.page img{
+    height: 50rem;
+    width: 90rem;
+}
+.cont1{
+   display: flex;
+   flex-direction: row;
+   width: 100%;
+   /* align-items: right; */
+}
+.left{
+    width: 42%;
+}
+.left img{
+    height: 45rem;
+    width: 50rem;
+    padding-left: 5rem;
+    /* padding-right: 30%; */
+    /* margin: 70%; */
+    
+}
+.text1{
+    text-align: right;
+}
+.right{
+    text-align: right;
+    width: 50%;
+}
+.cont2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* align-items: right; */
+    padding: 10% 10% 10%;
+ }
+ .left1{
+     width: 37%;
+ }
+ .left img{
+    height: 36rem;
+    width: 38rem;
+     padding-left: 5rem;
+     /* padding-right: 30%; */
+     /* margin: 70%; */
+     
+ }
+
+ .right1{
+     text-align: right;
+     width: 50%;
+ }
+ button{
+    height: 10%;
+    width: 40%;
+ }
+ .block1{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ }
+.card1{
+    padding-left: 20%;
+    padding-right: 20%;
+    /* border: 1px solid black; */
+}
+.card2{
+    padding-left: 20%;
+    padding-right: 20%;
+    /* border: 1px solid black; */
+}
+.card-body{
+    border: 1px solid black;
+}
+.card3{
+    padding-left: 20%;
+    padding-right: 20%;
+    /* padding-top: 5%; */
+    padding-bottom: 5%;
+    /* border: 1px solid black; */
+}
+.block2{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ }
+ .block3{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ }
+ .block4{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ }
+ .head{
+      display: flex;
+      text-align: center;
+      align-items: center;
+      margin-left: 25%;
+ }
+ .part1{
+       display: flex;
+   }
+.text{
+    padding-left: 30%;
+    padding-top: 18%;
+}
+.card5{
+    padding-left: 20%;
+    padding-right: 20%;
+    height: 30%;
+    /* border: 1px solid black; */
+}
+.part2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 40%;
+}
+.block5{
+    display: flex;
+    flex-direction: row;
+    padding-left: 23%;
+    padding-right: 15%;
+}
+.text1{
+    padding-right: 30%;
+    font-weight: 100rem;
+}
+.but{
+    background-color: rgb(10, 10, 119);
+    height: 40%;
+}
+.but h1{
+    padding-left: 40%;
+    height: 25%;
+    color: aliceblue;
+}
+.but img{
+    height: 70%;
+    width: 70%;
+    padding-left: 30%;
+}
+.page4 hr {
+    border-color: black;
+    border-width: 2px;
+  }
